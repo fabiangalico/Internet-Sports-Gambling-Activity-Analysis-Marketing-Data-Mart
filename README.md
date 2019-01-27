@@ -79,10 +79,6 @@ There are 4 different tabs that allow the user to explore different insights fro
 
 * **Number of users by age**
 
-<center>
-![*Number of users in Germany by Gender*](C:\Users\fgalicojustitz\Documents\GitHub\Open-Source-Group-11\Graphs\hist_age.png){ width=80% }
-</center>
-
 We observe that the age of 50% users are in between 24 and 37 years, and also half of the users are younger
 or equal than 29 years. It is also interesting to see that the minimum age is 16 years, which means that in
 some countries is allowed the young teens to access betting at this young age.
